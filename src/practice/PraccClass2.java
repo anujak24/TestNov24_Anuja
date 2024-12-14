@@ -10,7 +10,7 @@ public class PraccClass2 {
 	}
 	
 	void m4() {
-		System.out.println("");
+		System.out.println("hi");
 	}
 
 }
